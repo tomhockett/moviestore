@@ -1,0 +1,1 @@
+# A Movie Store written in Ruby on Rails
